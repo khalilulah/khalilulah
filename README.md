@@ -1,6 +1,6 @@
 # Hi, I’m Khalil 👋
 
-I’m a Computer Science undergraduate and mobile developer who enjoys building practical, real-world applications.  
+I’m a Computer Science graduate and mobile developer who enjoys building practical, real-world applications.  
 Most of my work focuses on creating clean, scalable mobile apps that solve everyday problems.
 
 I’m especially interested in:
