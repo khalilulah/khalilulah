@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Khalil 👋
 
-<!--
-**khalilulah/khalilulah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science undergraduate and mobile developer who enjoys building practical, real-world applications.  
+Most of my work focuses on creating clean, scalable mobile apps that solve everyday problems.
 
-Here are some ideas to get you started:
+I’m especially interested in:
+- Mobile application development
+- Backend systems & APIs
+- Building products people actually use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Technologies
+
+### Mobile
+- React Native
+- Expo
+
+### Frontend
+- JavaScript / TypeScript
+- HTML & CSS
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+- Firebase
+
+### Other
+- Git & GitHub
+- REST APIs
+- VS Code
+
+---
+
+Thanks for stopping by 🙂
