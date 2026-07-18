@@ -1,4 +1,4 @@
-# Hi, I'm Khalil 👋
+# Hi, I'm Khalil 
 
 Backend Software Engineer who likes understanding what's happening *underneath* the framework — not just using Redis, but knowing why a job queue needs atomic reservation and visibility timeouts; not just using an ORM, but knowing what it's hiding from me. That curiosity is why most of my projects are built from first principles rather than tutorials.
 
@@ -11,7 +11,7 @@ Currently deepening into AI-powered backend systems: LLM APIs, RAG pipelines, em
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Job Queue & Background Worker System](https://github.com/khalilulah/jobQueue)
 Redis-backed job queue built from first principles — atomic job reservation, retry scheduling with exponential backoff, crash recovery, visibility timeouts, graceful shutdown, and dead-letter handling.
@@ -36,7 +36,7 @@ Production RAG chatbot delivering grounded answers from indexed tax documents us
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 **Languages:** JavaScript, TypeScript, SQL
 **Backend:** Node.js, Express, REST APIs, JWT/OAuth, Role-Based Access Control
@@ -48,7 +48,7 @@ Production RAG chatbot delivering grounded answers from indexed tax documents us
 
 ---
 
-## 📫 Reach me
+##  Reach me
 
 - Email: alausakhalil@gmail.com
 - GitHub: [@khalilulah](https://github.com/khalilulah)
